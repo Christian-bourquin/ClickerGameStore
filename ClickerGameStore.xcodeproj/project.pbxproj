@@ -16,6 +16,7 @@
 		DA44F4B928EB18B30006AC1B /* ClickerGameStoreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA44F4B828EB18B30006AC1B /* ClickerGameStoreTests.swift */; };
 		DA44F4C328EB18B30006AC1B /* ClickerGameStoreUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA44F4C228EB18B30006AC1B /* ClickerGameStoreUITests.swift */; };
 		DA44F4C528EB18B30006AC1B /* ClickerGameStoreUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA44F4C428EB18B30006AC1B /* ClickerGameStoreUITestsLaunchTests.swift */; };
+		DA8EAF0E28EB8DE800E31323 /* StoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8EAF0D28EB8DE800E31323 /* StoreViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DA44F4BE28EB18B30006AC1B /* ClickerGameStoreUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClickerGameStoreUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA44F4C228EB18B30006AC1B /* ClickerGameStoreUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClickerGameStoreUITests.swift; sourceTree = "<group>"; };
 		DA44F4C428EB18B30006AC1B /* ClickerGameStoreUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClickerGameStoreUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DA8EAF0D28EB8DE800E31323 /* StoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				DA44F4A328EB18B20006AC1B /* SceneDelegate.swift */,
 				DA44F4A528EB18B20006AC1B /* ViewController.swift */,
 				DA44F4A728EB18B20006AC1B /* Main.storyboard */,
+				DA8EAF0D28EB8DE800E31323 /* StoreViewController.swift */,
 				DA44F4AA28EB18B30006AC1B /* Assets.xcassets */,
 				DA44F4AC28EB18B30006AC1B /* LaunchScreen.storyboard */,
 				DA44F4AF28EB18B30006AC1B /* Info.plist */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA8EAF0E28EB8DE800E31323 /* StoreViewController.swift in Sources */,
 				DA44F4A628EB18B20006AC1B /* ViewController.swift in Sources */,
 				DA44F4A228EB18B20006AC1B /* AppDelegate.swift in Sources */,
 				DA44F4A428EB18B20006AC1B /* SceneDelegate.swift in Sources */,
